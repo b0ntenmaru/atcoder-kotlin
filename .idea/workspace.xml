@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd174ad7-81e3-49df-9df5-a2f063e3e9b2" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/WelcomeToAtcoder.kt" afterDir="false" />
+    <list default="true" id="bd174ad7-81e3-49df-9df5-a2f063e3e9b2" name="変更" comment="kotestを導入">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/Coins.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/PlacingMarbles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/ShiftOnly.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/SomeSums.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/kotlin/practice/WelcomeToAtCooderTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,10 +90,10 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/hiroaki.date/workspace/playground/atcoder/src/main/kotlin/Main.kt",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="WelcomeToAtCooderTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -147,9 +149,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Gradle.WelcomeToAtCooderTest (1)" />
         <item itemvalue="Gradle.atcoder [build]" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -170,26 +172,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728110211693</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kotestを導入">
+      <option name="closed" value="true" />
+      <created>1728113389463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728113389463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialize" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/test/kotlin/practice/WelcomeToAtCooderTest.kt</url>
-          <line>6</line>
-          <properties class="practice.WelcomeToAtCooderTest" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="kotestを導入" />
+    <option name="LAST_COMMIT_MESSAGE" value="kotestを導入" />
   </component>
 </project>

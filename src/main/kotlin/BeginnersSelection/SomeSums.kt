@@ -1,4 +1,4 @@
-package org.example
+package org.example.BeginnersSelection
 
 fun main() {
     val (n, a, b) = readLine()!!.split(" ").map { it.toInt() }
