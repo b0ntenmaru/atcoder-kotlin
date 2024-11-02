@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd174ad7-81e3-49df-9df5-a2f063e3e9b2" name="変更" comment="kotestを導入">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/Coins.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/PlacingMarbles.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/ShiftOnly.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/SomeSums.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/practice/WelcomeToAtCooderTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="bd174ad7-81e3-49df-9df5-a2f063e3e9b2" name="変更" comment="CardGameforTwo">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BeginnersSelection/KagamiMochi.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -82,18 +77,19 @@
     "Gradle.WelcomeToAtCooderTest.executor": "Run",
     "Gradle.atcoder [build].executor": "Run",
     "Gradle.atcoder のビルド.executor": "Run",
+    "Kotlin.KagamiMochiKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/hiroaki.date/workspace/playground/atcoder/src/main/kotlin/Main.kt",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+  <component name="RunManager" selected="Kotlin.KagamiMochiKt">
     <configuration name="WelcomeToAtCooderTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -140,6 +136,13 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="KagamiMochiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BeginnersSelection.KagamiMochiKt" />
+      <module name="atcoder.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
       <module name="atcoder.main" />
@@ -149,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KagamiMochiKt" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Gradle.WelcomeToAtCooderTest (1)" />
         <item itemvalue="Gradle.atcoder [build]" />
@@ -186,6 +190,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize" />
     <MESSAGE value="kotestを導入" />
-    <option name="LAST_COMMIT_MESSAGE" value="kotestを導入" />
+    <MESSAGE value="KagamiMochi" />
+    <MESSAGE value="CardGameforTwo" />
+    <option name="LAST_COMMIT_MESSAGE" value="CardGameforTwo" />
   </component>
 </project>
